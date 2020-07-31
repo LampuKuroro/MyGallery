@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="gallery">My Gallery</string>
+    <string name="img1_name">Image 1</string>
+    <string name="img2_name">Image 2</string>
+    <string name="choosen_image">choosen image</string>
+    <string name="rename_button">Rename</string>
+    <string name="what_name">Rename</string>
+    <string name="dummyname">Name</string>
+    <string name="commit">Commit</string>
+    <string name="oldname">Renaming</string>
+    <string name="close">Close</string>
+    <string name="edit">Edit Photo</string>
+    <string name="img3_name">Image 3</string>
+    <string name="img4_name">Image 4</string>
+    <string name="img5_name">Image 5</string>
+    <string name="img6_name">Image 6</string>
+    <string name="img7_name">Image 7</string>
+    <string name="imgedit">Image to be edit</string>
+    <string name="flipx">Flip Horizontal</string>
+    <string name="flipy">Flip Vertical</string>
+    <string name="save">save</string>
+    <string name="add_red">Add Red</string>
+    <string name="add_blue">Add Blue</string>
+    <string name="add_yellow">Add Yellow</string>
+</resources>
